@@ -1,0 +1,9 @@
+{
+    "Colors_Coment" : "This 3 setting,used RGB colors!",
+    "BackGround_Color" : [30,30,30],
+    "Border_Color" : [255,0,0],
+    "Numbers_Color" : [255,0,0],
+    "Container_Coment" : "The Scale_Container don't be more 100! Because this is data in persents %",
+    "Scale_Container" : 90,
+    "Max_FPS" : 10
+}
